@@ -1,0 +1,3 @@
+while truem do 
+game.Replited5torage.MainEvent:FireServer("Stomp")
+end
